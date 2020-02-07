@@ -169,7 +169,7 @@
          */
         function run() {
             asset.scale.x = _direction;
-            asset.body.velocity.x = 200 * _direction;
+            asset.body.velocity.x = 500 * _direction;
             asset.animations.play('run');
             setState(_run);
         }

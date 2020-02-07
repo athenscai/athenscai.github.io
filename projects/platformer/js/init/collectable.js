@@ -39,7 +39,7 @@
         // example: 
         createCollectable(type.steve, 200, 170, 6, 0.7);
         createCollectable(type.kennedi, 100, 200, 4,0.3);
-        
+        createCollectable(type.db,100,100,7,1);
         
         // ALL YOUR CODE GOES ABOVE HERE ///////////////////////////////////////
         ////////////////////////////////////////////////////////////////////////
