@@ -1,6 +1,6 @@
             body {
-                background: rgb(38, 153, 0);
-                color: rgb(45, 45, 45);
+                background: rgb(75, 56,50);
+                color: rgb(255,244,230);
                 padding: 10px;
                 font-family: arial;
             }
@@ -14,11 +14,13 @@
             }
             
             main {
-                background: rgb(255, 255, 255);
+                background: rgb(190, 155, 123);
+                color: rgb(255,244,230);
                 display: flex;
             }
             nav {
-                background: rgb(112, 219, 112);
+                background: rgb(60,47,47);
+                color:rgb(255,244,230);
                 margin: 0 auto;
                 display: flex;
                 padding: 10px;

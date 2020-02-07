@@ -1,7 +1,7 @@
 
             body {
-                background: rgb(38, 153, 0);
-                color: rgb(45, 45, 45);
+                background: rgb(75, 56,50);
+                color: rgb(255,244,230);
                 padding: 10px;
                 font-family: arial;
             }
@@ -16,15 +16,15 @@
 
             /* navigation menu */
             nav {
-                background: rgb(112, 219, 112);
+                background: rgb(60,47,47);
                 margin: 0 auto;
                 display: flex;
-                padding: 10px;
+                padding: 20px;
             }
             nav header {
                 display: flex;
                 align-items: center;
-                color: rgb(255, 255, 255);
+                color: rgb(255,244,230);
                 flex: 1;
             }
             nav ul {
@@ -41,7 +41,7 @@
 
             /* main container area beneath menu */
             main {
-                background: rgb(204, 255, 230);
+                background: rgb(190, 155, 123);
                 display: flex;
             }
             .sidebar {
@@ -49,12 +49,13 @@
                 padding: 10px;
             }
             .sidebar img {
-                width: 200px;
+                width: 400px;
+                height: 400px;
             }
             .content {
                 flex: 1;
                 padding: 15px;
             }
-            .interests header {
+            .experience header {
                 font-size: 1.25em;
             }
